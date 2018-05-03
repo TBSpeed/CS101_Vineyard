@@ -1,0 +1,20 @@
+u#Shvetty Ballis#6039 Downtown Ave.#(382)555-9026#SBallis@fakeUniversity.net#03/03/1997#s
+g#Jacques Oof#6656 Nowhere Dr.#(954)555-6063#JOof@fakeUniversity.net#12/12/1982#m#r
+f#Harrison Weiner#204 Learned Rd.#(699)555-4031#HWeiner@fakeUniversity.net#920 Main Office#483903.65#04/12/1979#Dr.#M-F 5pm-8pm
+s#Michael Hunt#6153 Les'Point Ln.#Janitor#(716)555-2465#MHunt@fakeUniversity.net#226 Main Office#0137913.54#06/08/1998#Mr. Dussty
+u#Richard Ramanas#5409 Downtown Ave.#(567)555-7430#RRamanas@fakeUniversity.net#01/15/1985#s
+g#Benjamin Jacdof#3376 Nowhere Dr.#(510)555-5822#BJacdof@fakeUniversity.net#07/30/1977#m#r
+f#Keith Hanjaab#4508 Learned Rd.#(902)555-8837#KHanjaab@fakeUniversity.net#122 Main Office#192301.86#10/30/2002#Dr.#M-F 5pm-8pm
+s#Harrison Cox#437 Les'Point Ln.#Janitor#(487)555-7533#HCox@fakeUniversity.net#226 Main Office#0135228.29#05/02/1985#Mr. Dussty
+u#Jack Mehoof#6862 Downtown Ave.#(922)555-6938#JMehoof@fakeUniversity.net#11/29/1993#f
+g#Justin Yerboot#8909 Nowhere Dr.#(962)555-6333#JYerboot@fakeUniversity.net#05/23/1978#m#r
+f#Benjamin Dover#3097 Learned Rd.#(372)555-5666#BDover@fakeUniversity.net#82 Main Office#297634.18#08/20/1996#Dr.#M-F 5pm-8pm
+s#Michael Oxlong#4390 Les'Point Ln.#Janitor#(891)555-1835#MOxlong@fakeUniversity.net#226 Main Office#050439.76#03/24/1986#Mr. Dussty
+u#Noe Schitt-Sherlock#4337 Downtown Ave.#(175)555-854#NSchitt-Sherlock@fakeUniversity.net#04/21/1976#j
+g#Neil Anblomme#5854 Nowhere Dr.#(565)555-1951#NAnblomme@fakeUniversity.net#03/22/1988#m#r
+f#Phillip Hrbut#81 Learned Rd.#(904)555-1456#PHrbut@fakeUniversity.net#708 Main Office#379248.71#10/08/1976#Dr.#M-F 5pm-8pm
+s#Rocky Caulk#6679 Les'Point Ln.#Janitor#(952)555-7579#RCaulk@fakeUniversity.net#226 Main Office#086191.31#05/03/1991#Mr. Dussty
+u#Benjamin Nsyder#5119 Downtown Ave.#(335)555-8236#BNsyder@fakeUniversity.net#10/21/1993#s
+g#Robert Punder#8708 Nowhere Dr.#(455)555-6642#RPunder@fakeUniversity.net#05/27/1989#m#r
+f#Harrison Azcrk#5264 Learned Rd.#(186)555-3268#HAzcrk@fakeUniversity.net#487 Main Office#292442.86#01/07/2002#Dr.#M-F 5pm-8pm
+s#Miles Long#3396 Les'Point Ln.#Janitor#(265)555-4962#MLong@fakeUniversity.net#226 Main Office#080363.52#11/10/1993#Mr. Dussty

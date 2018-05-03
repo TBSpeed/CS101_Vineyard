@@ -1,0 +1,12 @@
+public static boolean arrayTestEqual(int [] x, int [] y)
+   {
+      boolean equal = (x.length == y.length);
+      int index = 0;
+      while (index < x.length && equal)
+      {
+         if (x[index] != y[index])
+            equal = false;
+         index++;
+      }
+      return equal;
+   }

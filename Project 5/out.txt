@@ -1,0 +1,85 @@
+ Construct set 5
+Set 5 has been created as a new, empty set.
+ Set 5 is empty
+Set 5 is empty.
+ Set 5 has size 0
+Set 5 contains 0 values.
+ add the following values to set 5: 1 3 8 9 3
+The value 1 has been added to the set 5.
+The value 3 has been added to the set 5.
+The value 8 has been added to the set 5.
+The value 9 has been added to the set 5.
+The value 3 already exists in the set 5.
+ Set 5 has size 4
+Set 5 contains 4 values.
+ Set 5 = {1, 3, 8, 9} in some order
+Set 5 is: 
+	{1,3,8,9}
+ Remove value 2 from set 5
+The value 2 has been removed from set 5.
+ Set 5 = {1, 3, 8, 9} in some order
+Set 5 is: 
+	{1,3,8,9}
+ Remove value 8 from set 5
+The value 8 has been removed from set 5.
+ Set 5 = {1, 3, 9} in some order
+Set 5 is: 
+	{1,3,9}
+ Set 5 does not have the value 8
+Set 5 does not contain the value 8.
+ Set 5 does have the value 3
+Set 5 contains the value 3.
+ Make set 5 empty
+The set 5 has been emptied.
+ Set 5 is empty
+Set 5 is empty.
+ Set 5 does not have the value 3
+Set 5 does not contain the value 3.
+ print the empty set 5
+Set 5 is: 
+	{}
+ remove 17 from set 5 (cannot, set 5 is empty)
+The value 17 has been removed from set 5.
+ Test union, intersection, and set difference
+ make set 10 with values 2,4,6,8,10,12,14,16,18,20
+ Make set 50 with values 3, 6, 9, 12, 15, 18, 21
+ Set 99 is the union of sets 10 and 50
+Set 99 is the union set of sets 10 & 50.
+ Set 99 = {2, 3, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21}
+Set 99 is: 
+	{2,4,6,8,10,12,14,16,18,20,3,9,15,21}
+ Set 71 is the intersection of sets 10 and 50
+Set 71 is the intersection set of sets 10 & 50.
+ Set 71 = {6, 12, 18}
+Set 71 is: 
+	{6,12,18}
+ Set 42 is the set difference set10 - set50
+Set 42 is the difference set of sets 10 & 50.
+ Set 42 = {2, 4, 8, 10, 14, 16, 20}
+Set 42 is: 
+	{2,4,8,10,14,16,20}
+ Test attempting commands on null sets
+ cannot test set 13 for emptiness, it is null
+There is no set 13
+ cannot add to null set 13
+The set 13 does not exist.
+ cannot remove from null set 13
+There is not set 13, in which to find the value 2.
+ cannot find size of null set 13
+There is no set 13
+ cannot make null set 13 empty
+There was no set 13 to empty.
+ cannot find value 2 in null set 13
+There is not set 13, in which to find the value 2.
+ cannot take union if one or more sets is null
+The union could not be done as one or more sets do not exist.
+The union could not be done as one or more sets do not exist.
+The union could not be done as one or more sets do not exist.
+ cannot take intersection if one or more sets is null
+The intersection could not be done as one or more sets do not exist.
+The intersection could not be done as one or more sets do not exist.
+The intersection could not be done as one or more sets do not exist.
+ cannot take set difference if one or more sets is null
+The intersection could not be done as one or more sets do not exist.
+The intersection could not be done as one or more sets do not exist.
+The intersection could not be done as one or more sets do not exist.

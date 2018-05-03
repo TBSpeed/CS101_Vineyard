@@ -1,0 +1,9 @@
+public static int [] arrayCopy(int [] x)
+   {
+   int [] y = new int[x.length];
+   for(int i = 0; i < x.length; i++)
+      {
+         y[i] = x[i];
+      }
+   return y;
+   }
