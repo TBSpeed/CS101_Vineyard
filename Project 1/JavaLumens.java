@@ -1,5 +1,4 @@
 /*
-  Thomas Belloli
   JavaLumen Coffee Code
   CS101
   10/12/17-10/13/17
@@ -108,7 +107,7 @@ monthEntry	            String   		input of month
 month			            int	      	numeric month	
 yearEntry	         	String	     	input of year	
 year			            int		      numeric year	
-purchaseDate	      	SimpleDate  	record todayís date	
+purchaseDate	      	SimpleDate  	record today‚Äôs date	
 deliveryDate		      SimpleDate  	date order delivered to customer	
 poundsCoffeeEntry	      String	   	input of amount purchased	
 poundsCoffeeDouble   	double	   	numeric amount purchased	
@@ -122,7 +121,7 @@ numberSmallBoxes	      int	      	number of small boxes needed
 largeBoxCost		      double	     	cost of large boxes	
 medBoxCost		         double	   	cost of medium boxes	
 smallBoxCost	      	double   		cost of small boxes	
-MONEY_FORMAT	      	String	   	ì$#,##0.00î for standard money format	
+MONEY_FORMAT	      	String	   	‚Äú$#,##0.00‚Äù for standard money format	
 priceFormat		         DecimalFormat	object to format double to money String	
 totalBoxCost	      	double	   	total cost of boxes	
 totalCostOfOrder     	double	   	total cost of order (coffee and boxes)	
