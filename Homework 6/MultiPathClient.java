@@ -1,6 +1,5 @@
 /* MultiPathClient.java
    Anderson, Franceschi
-   Belloli, Thomas
 */
 
 import java.awt.Graphics;
