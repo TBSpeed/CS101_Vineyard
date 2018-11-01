@@ -1,5 +1,5 @@
 Project 6
-Thomas Belloli - CS 101-02
+TBSpeed - CS 101-02
 The next lines contain an echo of the input file
 	u#John Paul Ringo#1234 Liverpool Lane#(123)456-7890#rutlesf4@applecor.com#12/22/1940#f
 	g#Justin Mike Edge#5678 Birmingham Beat#07/23/1945#(234)567-8901#days4gon@threshol.dmb#m#t
