@@ -15,7 +15,7 @@ public class Database
       Scanner fileScan = new Scanner(inputFile);
       File outFile = new File(args[1]);
       PrintStream fileOutput = new PrintStream(outFile);
-      fileOutput.println("Project 6\r\nThomas Belloli - CS 101-02\r\nThe next lines contain an echo of the input file");
+      fileOutput.println("Project 6\r\nTBSpeed - CS 101-02\r\nThe next lines contain an echo of the input file");
       int lineTotal = 0;
       while(fileScan.hasNextLine())
       {
@@ -279,7 +279,7 @@ Algorithm of main(String[] args)
         Scanner fileScan <- new Scanner(inputFile)
         File outFile <- new File(args[1])
         PrintStream fileOutput <- new PrintStream(outFile)
-        fileOutput.println("Project 6\r\nThomas Belloli - CS 101-02\r\nThe next lines contain an echo of the input file")
+        fileOutput.println("Project 6\r\nTBSpeed - CS 101-02\r\nThe next lines contain an echo of the input file")
         lineTotal <- 0
         while (fileScan.hasNextLine()) 
             fileOutput.println("\t" + fileScan.nextLine())
