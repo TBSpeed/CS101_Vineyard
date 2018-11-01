@@ -1,5 +1,4 @@
 /*
-  Thomas Belloli
   Number Guesser Code
   CS101-02
   10/26/17-10/29/17
