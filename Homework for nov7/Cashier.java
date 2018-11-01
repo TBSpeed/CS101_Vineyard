@@ -1,6 +1,5 @@
 /* Cashier class
    Anderson, Franceschi
-   Belloli, Thomas
 */
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
